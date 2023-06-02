@@ -1,0 +1,12 @@
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\bin\Debug\prova_8-6.exe.config
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\bin\Debug\prova_8-6.exe
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\bin\Debug\prova_8-6.pdb
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8-6.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8_6.Form1.resources
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8_6.Properties.Resources.resources
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8-6.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8-6.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8-6.exe
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8-6.pdb
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8_6.Form2.resources
+C:\Users\aluno\source\repos\prova_8-6\prova_8-6\obj\Debug\prova_8_6.AboutBox1.resources
